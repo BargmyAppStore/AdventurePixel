@@ -1,0 +1,29 @@
+﻿{
+	"version": 1675968219,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"spritefont.png",
+		"host-sheet0.png",
+		"tilemap.png",
+		"health-sheet0.png",
+		"tilemap2.png",
+		"spritefont2.png",
+		"spritefont3.png",
+		"peer-sheet0.png",
+		"peer-sheet1.png",
+		"loading-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"c2mp-net.js",
+		"c2mp-peer.js",
+		"c2mp.js",
+		"waker.js"
+	]
+}

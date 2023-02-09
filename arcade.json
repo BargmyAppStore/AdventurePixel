@@ -1,0 +1,30 @@
+﻿{
+	"name": "AdventurePixel",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 213,
+	"viewport-height": 120,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "279",
+	"ife": false,
+	"used-plugins": [
+		"Button",
+		"Function",
+		"Keyboard",
+		"Mouse",
+		"Multiplayer",
+		"Sprite",
+		"Spritefont2",
+		"Text",
+		"TextBox",
+		"Tilemap",
+		"Touch"
+	],
+	"used-behaviors": [
+		"EightDir"
+	]
+}
