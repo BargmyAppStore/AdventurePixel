@@ -25,6 +25,7 @@
 		"Touch"
 	],
 	"used-behaviors": [
-		"EightDir"
+		"EightDir",
+		"Fade"
 	]
 }
